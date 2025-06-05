@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color:url('img/galaxia.jpeg');
+    background-color:('img/galaxia.jpeg');
     font-family: Bai Jamjuree;
 }
 
