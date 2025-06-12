@@ -28,6 +28,8 @@ body {
 }
 
 .cartao__conteudo h3 {
+    color:var(--text-color);
+    border:
     background-color: tomato;
     text-align: left;
     padding: 0.5rem;
