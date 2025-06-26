@@ -29,7 +29,7 @@ body {
 
 .cartao__conteudo h3 {
     color:var(--text-color);
-    border:
+    border: 1px solid var(--text-color);
     background-color: tomato;
     text-align: left;
     padding: 0.5rem;
