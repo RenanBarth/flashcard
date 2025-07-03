@@ -1,17 +1,17 @@
 criaCartao(
-    'Programação',
-    pergunta,
-    resposta
+    'Geografia',
+    'Qual a capital da Iugoslávia?',
+    'A capital da Iugoslávia é Belgrado'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Geografia',
+    'Qual a capital da Rússia?',
+    'A capital da Rússia é Moscou'
 )
 
 criaCartao(
-    categoria,
-    pergunta,
-    resposta
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
 )
